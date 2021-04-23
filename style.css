@@ -1,0 +1,35 @@
+
+
+main{
+    width: 850px;
+    height: 450px;  
+    margin: 0 auto;
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/20/14/51/earth-1151659__480.jpg);
+    color: white;
+}
+
+section{
+    display: flex;
+    margin: 0 auto; 
+    width: 850px;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: silver;
+}
+
+article{
+    width: 270px;
+    height: 374px;
+    background-color:silver;
+}
+
+
+h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 15px;
+    font-weight: normal;
+}
