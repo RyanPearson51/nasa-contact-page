@@ -6,6 +6,9 @@ main{
     margin: 0 auto;
     background-image: url(https://cdn.pixabay.com/photo/2016/01/20/14/51/earth-1151659__480.jpg);
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 section{
@@ -32,4 +35,8 @@ h2{
 h3{
     font-size: 15px;
     font-weight: normal;
+}
+
+h1{
+    font-size: 50px;
 }
